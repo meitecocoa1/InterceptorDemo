@@ -1,0 +1,15 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+target 'Interceptor' do
+pod 'Aspects', '~> 1.4.1'
+end
+
+target 'InterceptorTests' do
+
+end
+
+target 'InterceptorUITests' do
+
+end
+
